@@ -70,9 +70,9 @@ Para aprender mais sobre como usar o Flutter e suas IDEs, consulte a documentaç
 ---
 
 <div align="center">
-  <img src="./src/flutter.png" alt="Flutter Icon" width="80"/>
-  <img src="./src/android.png" alt="Android Studio Icon" width="80"/>
-  <img src="./src/intellij.png" alt="IntelliJ IDEA Icon" width="80"/>
+  <a href="https://docs.flutter.dev/get-started/install" target="_blank"> <img src="./src/flutter.png" alt="Flutter Icon" width="80"/> </a>
+  <a href="https://developer.android.com/studio" target="_blank"> <img src="./src/android.png" alt="Android Studio Icon" width="80"/> </a>
+  <a href="https://www.jetbrains.com/idea/download/?section=windows" target="_blank"> <img src="./src/intellij.png" alt="IntelliJ IDEA Icon" width="80"/></a>
 </div>
 ```
 
