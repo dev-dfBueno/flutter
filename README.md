@@ -1,5 +1,3 @@
-Claro, vou adicionar os ícones de cada tecnologia/software ao final do README.md:
-
 ```markdown
 # Guia de Instalação do Flutter, Android Studio e IntelliJ no Windows
 
@@ -75,5 +73,3 @@ Para aprender mais sobre como usar o Flutter e suas IDEs, consulte a documentaç
   <a href="https://www.jetbrains.com/idea/download/?section=windows" target="_blank"> <img src="./src/intellij.png" alt="IntelliJ IDEA Icon" width="80"/></a>
 </div>
 ```
-
-Certifique-se de substituir "your_flutter_icon.png", "your_android_studio_icon.png" e "your_intellij_icon.png" pelos URLs ou caminhos para os ícones correspondentes a cada tecnologia/software.
